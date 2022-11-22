@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "610847460097",
+    "project_id": "navramsfnl",
+    "storage_bucket": "navramsfnl.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:610847460097:android:27013e5da3fbce1803a900",
+        "android_client_info": {
+          "package_name": "edu.farmingdale.angal.navrams"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "610847460097-44pnbolhrd2n39a9snsh1svvqhlidt2r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeXmxl7EO74ISOhWXHz63aI97N_KUOd7A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "610847460097-44pnbolhrd2n39a9snsh1svvqhlidt2r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
